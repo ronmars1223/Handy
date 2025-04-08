@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "462590622150",
+    "firebase_url": "https://handycrew-bd623-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "handycrew-bd623",
+    "storage_bucket": "handycrew-bd623.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462590622150:android:c08d7871571778db531ac7",
+        "android_client_info": {
+          "package_name": "com.example.handycrew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Tw2dxFLAx2JORRDOmk7cLIpXi3_UYBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
